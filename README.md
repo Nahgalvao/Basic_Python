@@ -1,2 +1,2 @@
 # Basic_Python
-Basic Python programming beginner
+Basic Python commands, programming for beginners
